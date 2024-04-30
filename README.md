@@ -7,7 +7,7 @@ Selamat datang di profil GitHub saya! Saya Revolusi Hazara Djibril, namun lebih 
 
 ## Tentang Saya
 
-- 🎓 Saya seorang mahasiswa yang sedang mengejar gelar di bidang ilmu komputer.
+- 🎓 Saya seorang rakyat biasa yang sedang mengejar ilmu di bidang ilmu komputer.
 - 💻 Saya menguasai bahasa pemrograman:
   - ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
   - ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
