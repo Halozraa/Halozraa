@@ -34,8 +34,6 @@ Terima kasih telah mengikuti perjalanan saya dalam mempelajari machine learning!
 ## Kontak
 
 Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, jangan ragu untuk menghubungi saya melalui:
-
-- Email: [revvv03@gmail.com](mailto:revvv03@gmail.com)
 - LinkedIn: [linkedin.com/in/revolusi-hazara-djibril-8444032b4/](https://www.linkedin.com/in/revolusi-hazara-djibril-8444032b4/)
 
 Terima kasih telah mengunjungi profil GitHub saya! 😊
