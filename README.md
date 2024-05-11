@@ -1,4 +1,3 @@
-
 <!-- @format -->
 
 # Halo, Saya Zra 👋
@@ -12,6 +11,7 @@ Selamat datang di profil GitHub saya! Saya Revolusi Hazara Djibril, namun lebih 
   - ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
   - ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
   - ![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) <!-- Added JavaScript here -->
 - 📚 Saat ini, saya sedang belajar tentang machine learning dan ingin mendalami bidang ini lebih lanjut.
 - 🌱 Saya senang belajar hal-hal baru dan terus meningkatkan keterampilan teknis saya.
 
@@ -29,11 +29,10 @@ Proyek ini adalah upaya saya untuk mendalami dan menguasai bidang machine learni
 
 Proyek ini akan terus diperbarui dengan perkembangan saya dalam mempelajari machine learning. Saya berharap dapat berbagi pengetahuan dan pengalaman saya dengan orang lain yang juga tertarik dalam bidang ini.
 
-Terima kasih telah mengikuti perjalanan saya dalam mempelajari machine learning!
-
 ## Kontak
 
 Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, jangan ragu untuk menghubungi saya melalui:
 - LinkedIn: [linkedin.com/in/revolusi-hazara-djibril-8444032b4/](https://www.linkedin.com/in/revolusi-hazara-djibril-8444032b4/)
 
 Terima kasih telah mengunjungi profil GitHub saya! 😊
+
