@@ -2,7 +2,7 @@
 
 # Halo, Saya Zra 👋
 
-Selamat datang di profil GitHub saya! Saya Revolusi Hazara Djibril, namun lebih suka dipanggil Zra. Saya seorang pecinta teknologi dan senang berkontribusi dalam pengembangan perangkat lunak.
+Selamat datang di profil GitHub saya! Saya Zra. Saya seorang pecinta teknologi dan senang berkontribusi dalam pengembangan perangkat lunak.
 
 ## Tentang Saya
 
